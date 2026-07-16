@@ -8,8 +8,6 @@
 
 CTF/PS 등 문제 풀이를 즐깁니다.
 
-자세한 내용은 여기에 -> [https://pumice.notion.site/](https://pumice.notion.site/)
-
 # 🖥️ 경력
 - IoTCube (2019.01 - 2020.02)
     - 리서치 팀, 직원
